@@ -1,0 +1,2 @@
+﻿  zad4.cpp
+C:\Users\Rin\source\repos\pr4\zad4.cpp(23,1): error C4700: использована неинициализированная локальная переменная "c"

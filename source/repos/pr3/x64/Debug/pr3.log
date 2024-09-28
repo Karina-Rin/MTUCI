@@ -1,0 +1,4 @@
+﻿zad3.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl func3(double,double,double &)" (?func3@@YAXNNAEAN@Z) в функции main.
+    Указание на символы, которые определены и могут подойти:
+      "void __cdecl func3(double,double,double)" (?func3@@YAXNNN@Z)
+C:\Users\Rin\source\repos\pr1\x64\Debug\pr3.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

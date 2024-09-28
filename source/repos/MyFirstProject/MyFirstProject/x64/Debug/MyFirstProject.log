@@ -1,0 +1,5 @@
+﻿  MyFirst.cpp
+C:\Users\Rin\source\repos\MyFirstProject\MyFirst.cpp(18,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Rin\source\repos\MyFirstProject\MyFirst.cpp(20,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Rin\source\repos\MyFirstProject\MyFirst.cpp(21,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MyFirstProject.vcxproj -> C:\Users\Rin\source\repos\MyFirstProject\x64\Debug\MyFirstProject.exe
