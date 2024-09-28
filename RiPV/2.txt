@@ -1,0 +1,23 @@
+Secuent region. OMP_NUM_THREADS = 1 TREAD_NUM = 0
+Parallel region 1. OMP_NUM_THREADS = 16Parallel region 1. OMP_NUM_THREADS = Parallel region 1. OMP_NUM_THREADS =  TREAD_NUM = 116 TREAD_NUM = 16
+ TREAD_NUM = 23
+Parallel region 1. OMP_NUM_THREADS = 16 TREAD_NUM = 7
+Parallel region 1. OMP_NUM_THREADS = 16 TREAD_NUM = 4
+Parallel region 1. OMP_NUM_THREADS = 16 TREAD_NUM = 6
+Parallel region 1. OMP_NUM_THREADS = 16 TREAD_NUM = 11
+Parallel region 1. OMP_NUM_THREADS = 16 TREAD_NUM = 13
+Parallel region 1. OMP_NUM_THREADS = 16 TREAD_NUM = 14
+Parallel region 1. OMP_NUM_THREADS = 16 TREAD_NUM = 15
+
+Parallel region 1. OMP_NUM_THREADS = 16 TREAD_NUM = 9
+Parallel region 1. OMP_NUM_THREADS = 16 TREAD_NUM = 10
+Parallel region 1. OMP_NUM_THREADS = 16 TREAD_NUM = 0
+Parallel region 1. OMP_NUM_THREADS = 16 TREAD_NUM = 8
+Parallel region 1. OMP_NUM_THREADS = 16 TREAD_NUM = 12
+Parallel region 1. OMP_NUM_THREADS = 16 TREAD_NUM = 5
+Parallel region 2. OMP_NUM_THREADS = 6 TREAD_NUM = 1
+Parallel region 2. OMP_NUM_THREADS = Parallel region 2. OMP_NUM_THREADS = 6 TREAD_NUM = 26
+ TREAD_NUM = Parallel region 2. OMP_NUM_THREADS = 3
+6 TREAD_NUM = 4
+Parallel region 2. OMP_NUM_THREADS = 6 TREAD_NUM = 5
+Parallel region 2. OMP_NUM_THREADS = 6 TREAD_NUM = 0

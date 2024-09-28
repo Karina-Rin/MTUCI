@@ -1,0 +1,2 @@
+Start time: 1.72574e+09 Stop time:1.72574e+09 Duration: 0.00499988 Accuracy: 0.001
+ Result=2.004e+06

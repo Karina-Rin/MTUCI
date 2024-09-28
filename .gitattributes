@@ -1,0 +1,5 @@
+*.csv text eol=lf
+* text=auto
+*.ipynb text eol=lf
+*.pdf binary
+*.csv text eol=crlf

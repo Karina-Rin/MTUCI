@@ -1,0 +1,18 @@
+ ThreadNum = 3 Local Sum = 168
+ ThreadNum = 2 Local Sum = 119
+ ThreadNum = 1 Local Sum = 70
+ ThreadNum = 4 Local Sum = 183
+ ThreadNum = 5 Local Sum = 219
+ ThreadNum = 6 Local Sum = 255
+ ThreadNum = 7 Local Sum = 291
+ ThreadNum = 11 Local Sum = 435
+ ThreadNum = 9 Local Sum = 363
+ ThreadNum = 8 Local Sum = 327
+ ThreadNum = 12 Local Sum = 471
+ ThreadNum = 14 Local Sum = 543
+ ThreadNum = 13 Local Sum = 507
+ ThreadNum = 0 Local Sum = 21
+ ThreadNum = 10 Local Sum = 399
+ ThreadNum = 15 Local Sum = 579
+ Total Sum = 4950
+Start time: 1.72574e+09 Stop time:1.72574e+09 Duration: 0.00500011 Accuracy: 0.001

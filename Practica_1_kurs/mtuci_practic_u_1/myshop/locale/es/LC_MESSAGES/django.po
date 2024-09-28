@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-03 17:21+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+#: .\cart\forms.py:9
+#: .\cart\templates\cart\detail.html:11
+#: .\orders\templates\admin\orders\ordes\detail.html:58
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: .\cart\templates\cart\detail.html:49
+msgid "off"
+msgstr ""
+
+#: .\cart\urls.py:9
+msgid "cart_detail"
+msgstr ""
+
+#: .\cart\urls.py:10
+msgid "cart_add"
+msgstr ""
+
+#: .\cart\urls.py:11
+msgid "cart_remove"
+msgstr ""
+
+#: .\coupons\forms.py:6
+msgid "Coupon"
+msgstr ""
+
+#: .\coupons\urls.py:9
+msgid "apply"
+msgstr ""
+
+#: .\myshop\settings.py:119
+msgid "English"
+msgstr "Inglés"
+
+#: .\myshop\settings.py:120
+msgid "Spanish"
+msgstr "Español"
+
+#: .\shop\templates\shop\base.html:13
+msgid "My shop"
+msgstr "Mi tienda"
+
+#: .\shop\templates\shop\base.html:18
+msgid "Language"
+msgstr "Idioma"
+
+#: .\shop\templates\shop\base.html:34
+msgid "Your cart:"
+msgstr ""
+
+#: .\shop\templates\shop\base.html:36
+#, python-format
+msgid ""
+"\n"
+"                        %(total_items)s item%(total_items_plural)s, $"
+"%(total_price)s\n"
+"                    "
+msgstr ""
+
+#: .\shop\templates\shop\base.html:41
+msgid "Your cart is empty."
+msgstr "Tu carrito esta vacío."
+
+#: .\shop\templates\shop\product\list.html:4
+#: .\shop\templates\shop\product\list.html:21
+msgid "Products"
+msgstr "Productos"
+
+#: .\shop\templates\shop\product\detail.html:18
+msgid "Add to cart"
+msgstr "Añadir al carrito"
+
+#: .\shop\templates\shop\product\list.html:9
+msgid "Categories"
+msgstr "Categorías"
+
+#: .\shop\templates\shop\product\list.html:12
+msgid "All"
+msgstr "Todos"

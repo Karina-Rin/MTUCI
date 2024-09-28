@@ -1,0 +1,11 @@
+Begin.Treads:Total = 1 MyNum= 0
+a = 10 b = 20 c = 30 d = 40
+Parallel section.Treads:Total = 3 MyNum= 1
+ a= 11 b= 1 c= 1 d= 101
+Parallel section.Treads:Total = 3 MyNum= 2
+ a= 12 b= 2 c= 2 d= 102
+Parallel section.Treads:Total = 3 MyNum= 0
+ a= 10 b= 0 c= 0 d= 100
+Final. Treads:Total = 1 MyNum = 0
+ a= 10 b= 0 c= 0 d= 40
+Start time: 1.72574e+09 Stop time:1.72574e+09 Duration: 0.00300002 Accuracy: 0.001
